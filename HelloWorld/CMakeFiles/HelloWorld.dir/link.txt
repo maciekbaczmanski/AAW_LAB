@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic   -m64    CMakeFiles/HelloWorld.dir/HelloWorld.cpp.o  -o bin/x86_64/Release/HelloWorld -Wl,-rpath,/opt/AMDAPPSDK-3.0/lib/x86_64 /opt/AMDAPPSDK-3.0/lib/x86_64/libOpenCL.so -lrt 

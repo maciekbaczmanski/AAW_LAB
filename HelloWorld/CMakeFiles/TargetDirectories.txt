@@ -1,0 +1,3 @@
+D:/uni/VIII sem/akcel/lab5/LAB_03_HelloWorld/HelloWorld/CMakeFiles/HelloWorld.dir
+D:/uni/VIII sem/akcel/lab5/LAB_03_HelloWorld/HelloWorld/CMakeFiles/edit_cache.dir
+D:/uni/VIII sem/akcel/lab5/LAB_03_HelloWorld/HelloWorld/CMakeFiles/rebuild_cache.dir
